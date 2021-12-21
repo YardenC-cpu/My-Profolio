@@ -152,7 +152,7 @@ h4 {
 
 
 .button-contact {
-   background: #DAD0C2;
+   background: solid #DAD0C2;
    background-image: -webkit-linear-gradient(top, #DAD0C2, #DAD0C2);
    background-image: -moz-linear-gradient(top, #DAD0C2, #DAD0C2);
    background-image: -ms-linear-gradient(top, #DAD0C2, #DAD0C2);
