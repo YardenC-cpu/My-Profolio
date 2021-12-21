@@ -152,39 +152,27 @@ h4 {
 
 
 .button-contact {
-   background: solid #DAD0C2;
-   background-image: -webkit-linear-gradient(top, #DAD0C2, #DAD0C2);
-   background-image: -moz-linear-gradient(top, #DAD0C2, #DAD0C2);
-   background-image: -ms-linear-gradient(top, #DAD0C2, #DAD0C2);
-   background-image: -o-linear-gradient(top, #DAD0C2, #DAD0C2);
-   background-image: -webkit-gradient(to bottom, #DAD0C2, #DAD0C2);
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
-   border-radius: 20px;
-   color: #66BFBF;
-   font-family: 'Montserrat', sans-serif;
-   font-size: 20px;
-   font-weight: 100;
-   padding: 22px;
-   text-decoration: none;
-   display: inline-block;
-   cursor: pointer;
-   text-align: center;
-   margin-bottom: 50px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 14px;
+  background-color: #57837B;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
 }
 
 .button-contact:hover {
-   border: solid #DAD0C2 1px;
-   background: #DAD0C2;
-   background-image: -webkit-linear-gradient(top, #DAD0C2, #F4DFD0);
-   background-image: -moz-linear-gradient(top, #DAD0C2, #F4DFD0);
-   background-image: -ms-linear-gradient(top, #DAD0C2, #F4DFD0);
-   background-image: -o-linear-gradient(top, #DAD0C2, #F4DFD0);
-   background-image: -webkit-gradient(to bottom, #DAD0C2, #F4DFD0);
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
-   border-radius: 20px;
-   text-decoration: none;
+  background: #96C7C1;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
 }
 
 .fotter {
@@ -208,4 +196,9 @@ h4 {
 .github-link {
   padding-right: 15px;
   padding-left: 15px;
+}
+
+
+label {
+  font-family: 'Montserrat', sans-serif;
 }
