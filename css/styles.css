@@ -202,3 +202,25 @@ h4 {
 label {
   font-family: 'Montserrat', sans-serif;
 }
+
+.blog-intro {
+  color:black; 
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+.blog-fibo-img{
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 50px;
+  right: 500px;
+}
+
+.blog-fibo-h5{
+  color: black;
+  position: relative;
+  right: 500px;
+  top: 30px;
+}
